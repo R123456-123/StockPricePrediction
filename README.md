@@ -4,7 +4,7 @@
 This project analyzes and predicts Tesla's stock price movement using historical stock data and various machine learning classification algorithms. The objective is to classify whether the stock will go up (1) or down (0) the next day based on engineered features.
 
 🗂️ Project Overview
-Dataset: Tesla Stock CSV (1692 rows, daily data)
+Dataset: Tesla Stock CSV (1692 rows, daily data).
 
 Goal: Predict the next day’s price movement using historical features.
 
